@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KUlAdk7LvXg4DX1MBGCiTxAQO1iJ69akn9R0ZY7M0P8=",
+  "Source": "JWTTokenWebApiTest",
+  "BasePath": "_content/JWTTokenWebApiTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
